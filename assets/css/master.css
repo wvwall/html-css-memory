@@ -23,9 +23,11 @@ body{
 }
 
 .card{
+  background-image: url("../img/pattern.png");
+  background-size: 100%;
   background-color: #fff;
   float: left;
-  width: 22%;
+  width: 180px;
   height: 220px;
   border-radius: 10px;
   box-shadow: 1px 1px 2px black;
@@ -35,6 +37,73 @@ body{
 }
 .row{
   width: 100%;
-  padding-left: 10%;
+  padding-left: 15%;
   padding-right: 10%;
+}
+.uno:hover{
+  background-image: url("../img/Bicycle.png");
+  background-size: 80%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.tit_1{
+  padding-top: 170px;
+  color: #00c853;
+  text-shadow: 1px 1px 2px black;
+}
+.due:hover{
+  background-image: url("../img/Ship.png");
+  background-size: 80%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.tit_2{
+  padding-top: 170px;
+  color: #e53935;
+  text-shadow: 1px 1px 2px black;
+}
+.tre:hover{
+  background-image: url("../img/Tractor.png");
+  background-size: 80%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.tit_3{
+  padding-top: 170px;
+  color: #ff6f00;
+  text-shadow: 1px 1px 2px black;
+}
+.quattro:hover{
+  background-image: url("../img/Tram.png");
+  background-size: 80%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.tit_4{
+  padding-top: 170px;
+  color: #4a148c;
+  text-shadow: 1px 1px 2px black;
+}
+.cinque:hover{
+  background-image: url("../img/Tram.png");
+  background-size: 80%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.tit_5{
+  padding-top: 170px;
+  color: #1976d2;
+  text-shadow: 1px 1px 2px black;
+}
+
+.sei:hover{
+  background-image: url("../img/balloon.png");
+  background-size: 80%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.tit_6{
+  padding-top: 170px;
+  color: #e91e63;
+  text-shadow: 1px 1px 2px black;
 }
