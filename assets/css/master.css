@@ -33,7 +33,7 @@ div.row::after {
   background-color: #fff;
   float: left;
   width: 180px;
-  height: 220px;
+  height: 215px;
   border-radius: 10px;
   box-shadow: 1px 1px 2px black;
   margin-top: 30px;
@@ -52,6 +52,7 @@ div.row::after {
   background-position: center;
 }
 .tit_1{
+  display: none;
   position: relative;
   top: 170px;
   color: #00c853;
@@ -64,6 +65,7 @@ div.row::after {
   background-position: center;
 }
 .tit_2{
+  display: none;
   position: relative;
   top: 170px;
   color: #e53935;
@@ -76,6 +78,7 @@ div.row::after {
   background-position: center;
 }
 .tit_3{
+  display: none;
   position: relative;
   top: 170px;
   color: #ff6f00;
@@ -88,6 +91,7 @@ div.row::after {
   background-position: center;
 }
 .tit_4{
+  display: none;
   position: relative;
   top: 170px;
   color: #4a148c;
@@ -100,6 +104,7 @@ div.row::after {
   background-position: center;
 }
 .tit_5{
+  display: none;
   position: relative;
   top: 170px;
   color: #1976d2;
@@ -113,6 +118,7 @@ div.row::after {
   background-position: center;
 }
 .tit_6{
+  display: none;
   position: relative;
   top: 170px;
   color: #e91e63;
@@ -121,4 +127,27 @@ div.row::after {
 .foot{
   text-align: center;
   margin-top: 30px;
+}
+
+.card:hover .tit_1{
+   display:block;
+}
+.card:hover .tit_2{
+   display:block;
+}
+
+.card:hover .tit_3{
+   display:block;
+}
+
+.card:hover .tit_4{
+   display:block;
+}
+
+.card:hover .tit_5{
+   display:block;
+}
+
+.card:hover .tit_6{
+   display:block;
 }
