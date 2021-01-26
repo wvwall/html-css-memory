@@ -50,6 +50,7 @@ div.row::after {
   background-size: 80%;
   background-repeat: no-repeat;
   background-position: center;
+  cursor: pointer;
 }
 .tit_1{
   display: none;
@@ -63,6 +64,7 @@ div.row::after {
   background-size: 80%;
   background-repeat: no-repeat;
   background-position: center;
+  cursor: pointer;
 }
 .tit_2{
   display: none;
@@ -76,6 +78,7 @@ div.row::after {
   background-size: 80%;
   background-repeat: no-repeat;
   background-position: center;
+  cursor: pointer;
 }
 .tit_3{
   display: none;
@@ -89,6 +92,7 @@ div.row::after {
   background-size: 80%;
   background-repeat: no-repeat;
   background-position: center;
+  cursor: pointer;
 }
 .tit_4{
   display: none;
@@ -102,6 +106,7 @@ div.row::after {
   background-size: 80%;
   background-repeat: no-repeat;
   background-position: center;
+  cursor: pointer;
 }
 .tit_5{
   display: none;
@@ -116,6 +121,7 @@ div.row::after {
   background-size: 80%;
   background-repeat: no-repeat;
   background-position: center;
+  cursor: pointer;
 }
 .tit_6{
   display: none;
